@@ -1,6 +1,8 @@
 SA-MP Lookup Bot
 ==========
 
+--I DID NOT MAKE THIS BOT, I'M JUST PROVIDING UPDATES TO IT.
+
 This lookup bot is a simple IRC bot using Incognitos IRC plugin, it can perform SA-MP wiki lookups.  
 It uses an API I run on my website to get its information.
 
